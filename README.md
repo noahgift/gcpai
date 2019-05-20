@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/noahgift/gcpai.svg?style=svg)](https://circleci.com/gh/noahgift/gcpai)
+
 # gcpai
 Building AI Applications for GCP
 
